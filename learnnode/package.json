@@ -1,0 +1,25 @@
+{
+  "name": "webdev2",
+  "version": "1.0.0",
+  "description": "- [X] hellogit\r - [] learnyounode\r - [] javascripting",
+  "main": "index.js",
+  "scripts": {
+    "start-learnyounode" : "learnyounode",
+    "verify-learnyounode" : "learnyounode verify hello-world.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eldon31/webdev2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eldon31/webdev2/issues"
+  },
+  "homepage": "https://github.com/eldon31/webdev2#readme",
+  "dependencies": {
+    "learnyounode": "^4.2.1"
+  }
+}
