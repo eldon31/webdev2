@@ -2,5 +2,9 @@
 
 ## TODOs
 - [X] hellogit
-- [] learnyounode
-- [] javascripting 
+- [X] learnyounode
+- [X] javascripting
+- [X] how-to-npm
+- [] how-to-markdown
+- [] expressworks
+- [] patchwork
