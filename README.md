@@ -5,6 +5,6 @@
 - [X] learnyounode
 - [X] javascripting
 - [X] how-to-npm
-- [] how-to-markdown
-- [] expressworks
+- [X] how-to-markdown
+- [X] expressworks
 - [] patchwork
